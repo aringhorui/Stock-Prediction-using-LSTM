@@ -8,7 +8,6 @@ This project employs Long Short-Term Memory (LSTM) neural networks to forecast s
 - [How to Use](#how-to-use)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Key Features
