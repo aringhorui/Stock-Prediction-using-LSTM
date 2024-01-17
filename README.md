@@ -34,6 +34,7 @@ This project employs Long Short-Term Memory (LSTM) neural networks to forecast s
 ## Prerequisites
 
 1.**Python 3**
+
 2.**Libraries:** yfinance, pandas, numpy, matplotlib, scikit-learn, keras
 
 ## Installation
